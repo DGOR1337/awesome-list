@@ -1,13 +1,14 @@
-# awesome-list
+# Awesome-list
 
-[工具分享 / Tools](tools.md)
+我的个人收藏的关于学习的精彩博客文章，文章和论文。
 
-我的个人阅读清单，记录读过的文章、论文、文档，以及自己的理解与收获。
+想了解相关工具，请查看[Tools](tools.md)，这里面会有我记录的工具。
 
-## 目录
+## Outline
 
 - [2026](#2026)
 
 ## 2026
 
-暂无条目。
+- [Needle in the haystack: LLMs for vulnerability research](https://devansh.bearblog.dev/needle-in-the-haystack/)：漏洞研究中的大语言模型
+
