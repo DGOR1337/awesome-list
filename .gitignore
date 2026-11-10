@@ -1,0 +1,11 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Local tooling and operating-system files
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
