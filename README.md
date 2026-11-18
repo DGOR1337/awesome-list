@@ -17,3 +17,5 @@
 - [How the Claude Code team does code review Claude Code](https://claude.dev/blog/solving-code-review-at-anthropic/)：Claude Code team 如何进行代码审查
 
 - [「agent harness」, built from 0 to 1](https://github.com/shareAI-lab/learn-claude-code)：Bash is all you need，学习agent harness
+
+- [How to Read a Paper](https://cs.uwaterloo.ca/~brecht/courses/Perf-Eval-Shared/readings/keshav-paper-reading.pdf)：如何正确的阅读文献
