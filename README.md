@@ -19,3 +19,6 @@
 - [「agent harness」, built from 0 to 1](https://github.com/shareAI-lab/learn-claude-code)：Bash is all you need，学习agent harness
 
 - [How to Read a Paper](https://cs.uwaterloo.ca/~brecht/courses/Perf-Eval-Shared/readings/keshav-paper-reading.pdf)：如何正确的阅读文献
+
+- [百度世界大会2026](https://live.baidu.com/m/media/pclive/pchome/live.html?room_id=11587578292&source=h5pre)：大会主题为“下一幕，智能组织”
+
